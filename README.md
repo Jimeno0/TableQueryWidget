@@ -9,13 +9,13 @@ Developed for Web AppBuilder.
 ### Initial config
 
 
-You can set as many table rows and dropdown buttons with querys just adding new elements in the config window:
+* You can set as many table rows and dropdown buttons with querys just adding new elements in the config window:
 
-![initConfig](ReadmeImages/initConfig.png)
+  * ![initConfig](ReadmeImages/initConfig.png)
 
-For example we feed the config with te following params:
+* For example we feed the config with te following params:
 
-![settingConfig](ReadmeImages/settingConfig.png)
+  *![settingConfig](ReadmeImages/settingConfig.png)
 
 ### Widget
 
