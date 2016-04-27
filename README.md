@@ -10,13 +10,19 @@ You can set as many table rows and dropdown buttons with querys just adding new 
 
 ![initConfig](ReadmeImages/initConfig.png)
 
+![initConfig](ReadmeImages/settingConfig.png)
 
 Once we hace our widget config ready we will see a table with all our features: 
 
+![onOpenWidget](ReadmeImages/onOpenWidget.png)
+
 By clicking on each feature the map will center on the selected element and we will see it drawed:
 
+![OnClickFeature](ReadmeImages/OnClickFeature.png)
 
 By seleccing any of the defined querys we'll se the features that meets the query:
+
+![OnClickQuery](ReadmeImages/OnClickQuery.png)
 
 ##Installation
 
