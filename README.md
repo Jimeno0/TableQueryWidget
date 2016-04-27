@@ -15,21 +15,21 @@ Developed for Web AppBuilder.
 
 * For example we feed the config with te following params:
 
-  *![settingConfig](ReadmeImages/settingConfig.png)
+  * ![settingConfig](ReadmeImages/settingConfig.png)
 
 ### Widget
 
-Once we have our widget config ready we will see a table with all our features: 
+* Once we have our widget config ready we will see a table with all our features: 
 
-![onOpenWidget](ReadmeImages/onOpenWidget.png)
+  * ![onOpenWidget](ReadmeImages/onOpenWidget.png)
 
-By clicking on each feature the map will center on the selected element and we will see it drawed:
+* By clicking on each feature the map will center on the selected element and we will see it drawed:
 
-![Screenshot](ReadmeImages/OnClickFeature.png)
+  * ![Screenshot](ReadmeImages/OnClickFeature.png)
 
-By seleccing any of the defined querys we'll se the features that meets the query:
+* By seleccing any of the defined querys we'll se the features that meets the query:
 
-![OnClickQuery](ReadmeImages/OnClickQuery.png)
+  * ![OnClickQuery](ReadmeImages/OnClickQuery.png)
 
 ##Installation
 
@@ -39,7 +39,7 @@ To see the widget once we open any of our App we need to follow the next steps:
 
 * The we need to go to the list.json file inside stemap/widgets and add the widget name to the list:
 
-![AddNameToList](ReadmeImages/AddNameToList.png)
+  * ![AddNameToList](ReadmeImages/AddNameToList.png)
 
 
 
