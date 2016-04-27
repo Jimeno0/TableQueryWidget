@@ -11,9 +11,9 @@ Developed for Web AppBuilder.
 
 You can set as many table rows and dropdown buttons with querys just adding new elements in the config window.
 
-<img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400"/>
+<img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400" align="right"/>
 
-<img src="ReadmeImages/settingConfig.png" alt="settingConfig" align="middle"/>
+<img src="ReadmeImages/settingConfig.png" alt="settingConfig"/>
 
 
 Once we hace our widget config ready we will see a table with all our features: 
@@ -25,7 +25,7 @@ Once we hace our widget config ready we will see a table with all our features:
 
 By clicking on each feature the map will center on the selected element and we will see it drawed:
 
-![Screenshot](ReadmeImages/OnClickFeature.png =500x500)
+![Screenshot](ReadmeImages/OnClickFeature.png)
 
 By seleccing any of the defined querys we'll se the features that meets the query:
 
