@@ -13,7 +13,7 @@ You can set as many table rows and dropdown buttons with querys just adding new 
 <img src="ReadmeImages/initConfig.png" alt="Drawing" style="width:200px;"/>
 
 
-<img src="ReadmeImages/initConfig.png" alt="initConfig" width="500" height="400" />
+<img src="ReadmeImages/initConfig.png" alt="initConfig" width="500" height="400" align="middle"/>
 
 <img src="ReadmeImages/settingConfig.png" alt="settingConfig" width="500" height="400" />
 
