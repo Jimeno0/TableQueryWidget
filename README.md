@@ -9,18 +9,19 @@ Developed for Web AppBuilder.
 ### Initial config
 
 
-You can set as many table rows and dropdown buttons with querys just adding new elements in the config window.
+You can set as many table rows and dropdown buttons with querys just adding new elements in the config window:
 
 <img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400" align="right"/>
 
+For example we feed the config with te following params:
+
 <img src="ReadmeImages/settingConfig.png" alt="settingConfig"/>
 
+### Widget
 
 Once we hace our widget config ready we will see a table with all our features: 
 
 <img src="ReadmeImages/onOpenWidget.png" alt="onOpenWidget" size="500"align="middle"/>
-
-<img src="ReadmeImages/onOpenWidget.png" alt="onOpenWidget" size="500"/>
 
 
 By clicking on each feature the map will center on the selected element and we will see it drawed:
@@ -32,4 +33,12 @@ By seleccing any of the defined querys we'll se the features that meets the quer
 ![OnClickQuery](ReadmeImages/OnClickQuery.png)
 
 ##Installation
+
+To see the widget once we open any of our App we need to follow the next steps:
+
+* It works with Bootrstap so we have to replace the index.html and the init.js files from our web app (or add the code lines that you can find below comments like //Bootstrap).
+
+* The we need to go to the list.json file inside stemap/widgets and add the widget name to the list:
+
+
 
