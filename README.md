@@ -37,7 +37,9 @@ To see the widget once we open any of our App we need to follow the next steps:
 
 * It works with Bootrstap so we have to replace the index.html and the init.js files from our web app (or add the code lines that you can find below comments like //Bootstrap).
 
-* The we need to go to the list.json file inside stemap/widgets and add the widget name to the list:
+* Copy the TableQuerys folder inside the stemapp/widgets directory
+
+* And finally we need to go to the list.json file inside stemapp/widgets and add the widget name to the list:
 
   * ![AddNameToList](ReadmeImages/AddNameToList.png)
 
