@@ -8,7 +8,7 @@ Developed for Web AppBuilder.
 
 You can set as many table rows and dropdown buttons with querys just adding new elements in the config window.
 
-![initConfig](ReadmeImages/initConfig.png | width=100)
+![initConfig](ReadmeImages/initConfig.png | width=50)
 
 ![initConfig](ReadmeImages/settingConfig.png)
 
