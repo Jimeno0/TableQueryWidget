@@ -8,7 +8,7 @@ Developed for Web AppBuilder.
 
 You can set as many table rows and dropdown buttons with querys just adding new elements in the config window.
 
-![initConfig](https://raw.githubusercontent.com/Jimeno0/TableQueryWidget/blob/master/ReadmeImages/initConfig.png)
+![initConfig](ReadmeImages/initConfig.png)
 
 
 Once we hace our widget config ready we will see a table with all our features: 
