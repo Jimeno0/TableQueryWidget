@@ -8,14 +8,13 @@ Developed for Web AppBuilder.
 
 You can set as many table rows and dropdown buttons with querys just adding new elements in the config window.
 
-![initConfig](ReadmeImages/initConfig.png)
 
-<img src="ReadmeImages/initConfig.png" alt="Drawing" style="width:200px;"/>
+<img src="ReadmeImages/initConfig.png" alt="Drawing" style="size:200px;"/>
 
 
-<img src="ReadmeImages/initConfig.png" alt="initConfig" width="500" height="400" align="middle"/>
+<img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400" align="middle"/>
 
-<img src="ReadmeImages/settingConfig.png" alt="settingConfig" width="500" height="400" />
+<img src="ReadmeImages/settingConfig.png" alt="settingConfig" size="500"/>
 
 Once we hace our widget config ready we will see a table with all our features: 
 
