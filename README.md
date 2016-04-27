@@ -11,11 +11,13 @@ You can set as many table rows and dropdown buttons with querys just adding new 
 
 <img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400"/>
 
-<img src="ReadmeImages/settingConfig.png" alt="settingConfig" align="middle"/>
 
 Once we hace our widget config ready we will see a table with all our features: 
 
-![onOpenWidget](ReadmeImages/onOpenWidget.png)
+<img src="ReadmeImages/onOpenWidget.png" alt="onOpenWidget" size="500"align="middle"/>
+
+<img src="ReadmeImages/onOpenWidget.png" alt="onOpenWidget" size="500"/>
+
 
 By clicking on each feature the map will center on the selected element and we will see it drawed:
 
