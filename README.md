@@ -10,9 +10,11 @@ You can set as many table rows and dropdown buttons with querys just adding new 
 
 ![initConfig](ReadmeImages/initConfig.png)
 
-<img style="width: 200px;" src="ReadmeImages/initConfig.png">
+<img style="width:50px;" src="ReadmeImages/initConfig.png">
 
-![initConfig](ReadmeImages/settingConfig.png=200x200)
+![initConfig](ReadmeImages/settingConfig.png)
+
+<img src="ReadmeImages/settingConfig.png" width="200" height="200" />
 
 Once we hace our widget config ready we will see a table with all our features: 
 
