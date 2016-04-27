@@ -11,7 +11,7 @@ You can set as many table rows and dropdown buttons with querys just adding new 
 
 <img src="ReadmeImages/initConfig.png" alt="initConfig" width="600" height="400"/>
 
-<img src="ReadmeImages/settingConfig.png" alt="settingConfig" align="middle" size="600"/>
+<img src="ReadmeImages/settingConfig.png" alt="settingConfig" align="middle"/>
 
 Once we hace our widget config ready we will see a table with all our features: 
 
