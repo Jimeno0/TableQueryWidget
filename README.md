@@ -2,6 +2,8 @@
 
 A query Widget where you can set as many querys as you want on as many dropdown bottons as you please and set how many fields you want to see in the features table.
 
+[Sample app with the Table Query Widget](http://jimeno0.github.io/TableQueryWidget/TableQueryWidgetApp/index.html)
+
 Developed for Web AppBuilder.
 
 ## About
